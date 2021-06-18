@@ -1,21 +1,27 @@
 Statistics,Weightage,Machine learning,Weightage,Deep Learning,Weightage,R language,Weightage,Python language,Weightage,NLP,Weightage,Data Engineering,Weightage
-statisticalmodels,10,linear regression,10,neural network,10,r,20,python,10,nlp,10,aws,10
-statisticalmodeling,10,logistic regression,10,keras,10,ggplot,25,flask,10,natural language processing,10,ec2,10
-probability,10,K means,10,theano,10,shiny,10,django,10,topic modeling,10,amazon redshift,10
-normal distribution,10,random forest,10,face detection,10,cran,10,pandas,10,Ida,10,s3,10
-poisson distribution,10,xgboost,10,neural networks,10,dplyr,10,numpy,10,named entity recognition,10,docker,10
-survival models,10,svm,10,convolutional neuralnetwork (cnn),10,tidyr,10,scikitlearn,10,pos tagging,5,kubemetes,10
-hypothesis testing,5,naive bayes,5,recurrent neural network(RNN),5,lubridate,5,sklearn,5,word2vec,5,scala,5
-bayesian inference,10,pca,10,object detection,10,knitr,10,matplotlib,10,word embedding,5,teradata,5
-factor analysis,5,decision trees,5,yolo,5,,,scipy,5,lsi,5,google big query,5
-forecasting,10,svd,10,gpu,5,,,bokeh,10,spacy,5,aws lambda,5
-markov chain,5,ensemble models,5,cuda,5,,,statsmodel,10,gensIm,5,aws emr,5
-monte carlo,5,boltzman machine,5,tensorflow,5,,,,,nltk,5,hive,5
-,,,,lstm,2,,,,,nmf,2,hadoop,5
-,,,,gan,2,,,,,doc2vec,2,sql,5
-,,,,opencv,1,,,,,cbow,1,,
-,,,,,,,,,,bag of words,3,,
-,,,,,,,,,,skipgram,2,,
-,,,,,,,,,,bert,2,,
-,,,,,,,,,,sentiment analysis,2,,
-,,,,,,,,,,chat bot,1,,
+statisticalmodels,10,linear regression,10,neural network,10,r,20,Python language,10,nlp,10,aws,10
+statisticalmodeling,10,logistic regression,10,keras,10,ggplot,25,python,2,natural language processing,10,ec2,10
+probability,10,K means,10,theano,10,shiny,10,flask,2,topic modeling,10,amazon redshift,10
+normal distribution,10,random forest,10,face detection,10,cran,10,django,5,Ida,10,s3,10
+poisson distribution,10,xgboost,10,neural networks,10,dplyr,10,pandas,5,named entity recognition,10,docker,10
+survival models,10,svm,10,convolutional neuralnetwork (cnn),10,tidyr,10,numpy,3,pos tagging,5,kubemetes,10
+hypothesis testing,5,naive bayes,5,recurrent neural network(RNN),5,lubridate,5,scikitlearn,3,word2vec,5,scala,5
+bayesian inference,10,pca,10,object detection,10,knitr,10,sklearn,3,word embedding,5,teradata,5
+factor analysis,5,decision trees,5,yolo,5,,,matplotlib,1,lsi,5,google big query,5
+forecasting,10,svd,10,gpu,5,,,scipy,1,spacy,5,aws lambda,5
+markov chain,5,ensemble models,5,cuda,5,,,bokeh,2,gensIm,5,aws emr,5
+monte carlo,5,boltzman machine,5,tensorflow,5,,,statsmodel,10,nltk,5,hive,5
+,,,,lstm,2,,,AWS,5,nmf,2,hadoop,5
+,,,,gan,2,,,ec2,7,doc2vec,2,sql,5
+,,,,opencv,1,,,amazon redshift,7,cbow,1,,
+,,,,,,,,s3,5,bag of words,3,,
+,,,,,,,,docker,2,skipgram,2,,
+,,,,,,,,kubemetes,2,bert,2,,
+,,,,,,,,scala,2,sentiment analysis,2,,
+,,,,,,,,teradata,2,chat bot,1,,
+,,,,,,,,google big query,7,,,,
+,,,,,,,,aws lambda,5,,,,
+,,,,,,,,aws emr,2,,,,
+,,,,,,,,hive,2,,,,
+,,,,,,,,hadoop,5,,,,
+,,,,,,,,sql,5,,,,
