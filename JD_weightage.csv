@@ -1,0 +1,26 @@
+Statistics,Weightage,Machine learning,Weightage,Deep Learning,Weightage,Python language,Weightage,NLP,Weightage,Data Engineering,Weightage,Java,Weightage
+statisticalmodels,10,linear regression,10,neural network,10,Python language,10,nlp,10,aws,10,java,10
+statisticalmodeling,10,logistic regression,10,keras,10,python,2,natural language processing,10,ec2,10,j2EE,10
+probability,10,K means,10,theano,10,flask,2,topic modeling,10,amazon redshift,10,spring,8
+normal distribution,10,random forest,10,face detection,10,django,5,Ida,10,s3,10,spring boot,7
+poisson distribution,10,xgboost,10,neural networks,10,pandas,5,named entity recognition,10,docker,10,hibernate,7
+survival models,10,svm,10,convolutional neuralnetwork (cnn),10,numpy,3,pos tagging,5,kubemetes,10,jSP,7
+hypothesis testing,5,naive bayes,5,recurrent neural network(RNN),5,scikitlearn,3,word2vec,5,scala,5,struts,7
+bayesian inference,10,pca,10,object detection,10,sklearn,3,word embedding,5,teradata,5,sOA,4
+factor analysis,5,decision trees,5,yolo,5,matplotlib,1,lsi,5,google big query,5,rESTful aPI,4
+forecasting,10,svd,10,gpu,5,scipy,1,spacy,5,aws lambda,5,oracle,6
+markov chain,5,ensemble models,5,cuda,5,bokeh,2,gensIm,5,aws emr,5,mySql,6
+monte carlo,5,boltzman machine,5,tensorflow,5,statsmodel,10,nltk,5,hive,5,docker,4
+,,,,lstm,2,AWS,5,nmf,2,hadoop,5,kubernetes,4
+,,,,gan,2,ec2,7,doc2vec,2,sql,5,cI/CD,2
+,,,,opencv,1,amazon redshift,7,cbow,1,,,kubernetes,2
+,,,,,,s3,5,bag of words,3,,,bit bucket,1
+,,,,,,docker,2,skipgram,2,,,jenkins,1
+,,,,,,kubemetes,2,bert,2,,,HTML,1
+,,,,,,scala,2,sentiment analysis,2,,,javaScript,1
+,,,,,,teradata,2,chat bot,1,,,angular JS,2
+,,,,,,google big query,7,,,,,react,2
+,,,,,,aws lambda,5,,,,,agile,4
+,,,,,,aws emr,2,,,,,,
+,,,,,,hive,2,,,,,,
+,,,,,,sql,5,,,,,,
